@@ -26,7 +26,7 @@ include("./include/navigation.php");
             <div class="row gx-5">
                 <div class="col-lg-6 mb-5 mb-lg-0">
                     <div class="d-flex h-100 border border-5 border-primary border-bottom-0 pt-4">
-                        <img class="img-fluid mt-auto mx-auto" src="img/about.png">
+                        <img class="img-fluid mt-auto mx-auto" src="img/about-surajdai.png">
                     </div>
                 </div>
                 <div class="col-lg-6 pb-5">
@@ -107,7 +107,6 @@ include("./include/navigation.php");
     </div>
     <!-- Facts End -->
 
-
     <!-- Team Start -->
     <div class="container-fluid py-5">
         <div class="container">
@@ -120,10 +119,10 @@ include("./include/navigation.php");
                     <div class="row g-0">
                         <div class="col-10">
                             <div class="position-relative">
-                                <img class="img-fluid w-100" src="img/team-1.jpg" alt="">
+                                <img class="img-fluid w-100" src="img/team-1.png" alt="">
                                 <div class="position-absolute start-0 bottom-0 w-100 py-3 px-4" style="background: rgba(52, 173, 84, .85);">
-                                    <h4 class="text-white">Farmer Name</h4>
-                                    <span class="text-white">Designation</span>
+                                    <h4 class="text-white">Amrit Regmi</h4>
+                                    <span class="text-white">Manager</span>
                                 </div>
                             </div>
                         </div>
@@ -141,10 +140,10 @@ include("./include/navigation.php");
                     <div class="row g-0">
                         <div class="col-10">
                             <div class="position-relative">
-                                <img class="img-fluid w-100" src="img/team-2.jpg" alt="">
+                                <img class="img-fluid w-100 h-100" src="img/team-2.png" alt="">
                                 <div class="position-absolute start-0 bottom-0 w-100 py-3 px-4" style="background: rgba(52, 173, 84, .85);">
-                                    <h4 class="text-white">Farmer Name</h4>
-                                    <span class="text-white">Designation</span>
+                                    <h4 class="text-white">Sri Krishna Regmi</h4>
+                                    <span class="text-white">Account and Sales</span>
                                 </div>
                             </div>
                         </div>
@@ -162,10 +161,10 @@ include("./include/navigation.php");
                     <div class="row g-0">
                         <div class="col-10">
                             <div class="position-relative">
-                                <img class="img-fluid w-100" src="img/team-3.jpg" alt="">
+                                <img class="img-fluid w-100" src="img/team-3.png" alt="">
                                 <div class="position-absolute start-0 bottom-0 w-100 py-3 px-4" style="background: rgba(52, 173, 84, .85);">
-                                    <h4 class="text-white">Farmer Name</h4>
-                                    <span class="text-white">Designation</span>
+                                    <h4 class="text-white">Surya Prasad Regmi</h4>
+                                    <span class="text-white">Business Development Officer</span>
                                 </div>
                             </div>
                         </div>

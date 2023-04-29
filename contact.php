@@ -21,7 +21,7 @@ include("./include/navigation.php");
 
 
     <!-- Contact Start -->
-    <div class="container-fluid py-5">
+    <div class="container-fluid">
         <div class="container">
             <div class="mx-auto text-center mb-5" style="max-width: 500px;">
                 <h6 class="text-primary text-uppercase">Contact Us</h6>
@@ -59,8 +59,8 @@ include("./include/navigation.php");
                                 <i class="bi bi-geo-alt fs-4 text-white"></i>
                             </div>
                             <div class="ps-3">
-                                <h5 class="text-white">Our Office</h5>
-                                <span class="text-white">123 Street, New York, USA</span>
+                                <h5 class="text-white">Location</h5>
+                                <span class="text-white">Bhimtari, Waling Syangja</span>
                             </div>
                         </div>
                         <div class="d-flex mb-4">
@@ -69,7 +69,7 @@ include("./include/navigation.php");
                             </div>
                             <div class="ps-3">
                                 <h5 class="text-white">Email Us</h5>
-                                <span class="text-white">info@example.com</span>
+                                <span class="text-white">garadiagro@gmail.com</span>
                             </div>
                         </div>
                         <div class="d-flex">
@@ -78,13 +78,18 @@ include("./include/navigation.php");
                             </div>
                             <div class="ps-3">
                                 <h5 class="text-white">Call Us</h5>
-                                <span class="text-white">+012 345 6789</span>
+                                <span class="text-white">+977 985-6054211</span>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    <div class="pt-2">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d880.8831343149202!2d83.77037276963829!3d27.977599182873206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3995c5354f668bbf%3A0xa43d6996fdc78f76!2sGaradi%20Complex%20Agriculture%20and%20Agro%20Farm!5e0!3m2!1sen!2snp!4v1682787627209!5m2!1sen!2snp" width="1920" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  
+    </div>
+
     </div>
     <!-- Contact End -->
 

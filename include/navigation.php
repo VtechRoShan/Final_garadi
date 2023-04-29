@@ -33,7 +33,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-primary navbar-dark shadow-sm py-1 py-lg-0 px-3 px-lg-1">
         <a href="index.php" class="navbar-brand d-flex d-lg-none">
-            <h1 class="m-0 display-4 text-secondary"><span class="text-white">Farm</span>Fresh</h1>
+            <h1 class="m-0 display-4 text-secondary"><span class="text-white"> <strong>Garadi</strong> <b> Agro </span> & Durbar Cafe</b></h1>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -43,7 +43,9 @@
                 <a href="index.php" class="nav-item nav-link active">Home</a>
                 <a href="about.php" class="nav-item nav-link">About</a>
                 <a href="service.php" class="nav-item nav-link">Service</a>
-                <a href="product.php" class="nav-item nav-link">Product</a>
+                <a href="blog.php" class="nav-item nav-link">Blog</a>
+                <a href="team.php" class="nav-item nav-link">Team</a>
+                <!-- <a href="product.php" class="nav-item nav-link">Product</a>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu m-0">
@@ -53,7 +55,7 @@
                         <a href="team.php" class="dropdown-item">The Team</a>
                         <a href="testimonial.php" class="dropdown-item">Testimonial</a>
                     </div>
-                </div>
+                </div> -->
                 <a href="contact.php" class="nav-item nav-link">Contact</a>
             </div>
         </div>
